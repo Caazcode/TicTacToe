@@ -8,7 +8,7 @@
  *
  * @author adrianaguilar
  */
-package Modelo;
+package modelo;
 
 public class Ruta {
     public static final String EQUIS = "/resources/Equis.png";

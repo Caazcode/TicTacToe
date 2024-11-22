@@ -9,7 +9,7 @@
  * @author adrianaguilar
  */
 
-   package Modelo;
+   package modelo;
 
 public class Jugador {
     private String nombre;

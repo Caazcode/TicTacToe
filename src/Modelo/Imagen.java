@@ -7,7 +7,7 @@
  *
  * @author adrianaguilar
  */
-package Modelo;
+package modelo;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;

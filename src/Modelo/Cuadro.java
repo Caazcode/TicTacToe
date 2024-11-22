@@ -8,7 +8,7 @@
  *
  * @author adrianaguilar
  */
-package Modelo;
+package modelo;
 
 import java.awt.Color;
 import java.awt.Graphics;
